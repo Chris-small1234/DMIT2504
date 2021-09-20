@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Chatter</string>
+    <string name="greeting">Post Message</string>
+    <string name="text_view_chatter_title">Display Latest</string>
+    <string name="edit_text_hint">Enter text here</string>
+    <string name="button_submit_text">Post Chatter</string>
+    <string name="button_launch_text">View Chatter</string>
+    <string name="menu_item_view_chatter">View Chatter</string>
+    <string name="menu_item_view_chatter_list_view">Chatter List View</string>
+    <string name="menu_item_view_custom_list_view">Custom Listview</string>
+</resources>
